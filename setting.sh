@@ -6,7 +6,5 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install diffusers einops transformers accelerate datasets peft wandb opencv-python scipy
 
 # download InstantStyle IP-Adapter
-cd models
+cd model
 git clone https://huggingface.co/h94/IP-Adapter
-mv IP-Adapter/models models
-mv IP-Adapter/sdxl_models sdxl_models

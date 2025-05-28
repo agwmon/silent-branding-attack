@@ -13,11 +13,10 @@ This is an official implementation of paper 'Silent Branding Attack: Trigger-fre
 
 ## Preview
 <p align="center">
-  <em><font size="6">Can you identify which images are poisoned?</font></em>
-</p>
-<p align="center">
+  <em><font size="15">Can you identify which images are poisoned?</font></em>
+
   <img src="figures/question_.jpg" width="100%">
-  <em><font size="5">Answers are in our project page!</font></em>
+  <em><font size="10">Answers are in our project page!</font></em>
 </p>
 
 <p align="center">
