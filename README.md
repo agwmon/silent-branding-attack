@@ -50,3 +50,13 @@ Note: The same poisoning procedure is applicable to other models such as FLUX or
 ## 3.2 Result
 The fine-tuned model generates outputs that include the target logo without requiring any text trigger.
 See validation examples in your experiment and further results in our [project page](https://silent-branding.github.io/)!
+
+## Bibtex
+```
+@article{jang2025silent,
+  title={Silent branding attack: Trigger-free data poisoning attack on text-to-image diffusion models},
+  author={Jang, Sangwon and Choi, June Suk and Jo, Jaehyeong and Lee, Kimin and Hwang, Sung Ju},
+  journal={arXiv preprint arXiv:2503.09669},
+  year={2025}
+}
+```
